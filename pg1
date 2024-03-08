@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tourism Landing Page</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Explore the World</h1>
+      <nav>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Destinations</a></li>
+          <li><a href="#">Tours</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="container">
+      <div class="hero-content">
+        <h2>Discover Your Next Adventure</h2>
+        <p>Explore breathtaking destinations around the world with our guided tours.</p>
+        <a href="#" class="btn">Book Now</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="features">
+    <div class="container">
+      <h2>Why Choose Us?</h2>
+      <div class="feature">
+        <img src="F:\anju\img\im1.jpg" alt="Beach">
+        <h3>Stunning Locations</h3>
+        <p>Discover beautiful and exotic destinations.</p>
+      </div>
+      <div class="feature">
+        <img src="F:\anju\img\im2.jpg" alt="Tour Guide">
+        <h3>Expert Guides</h3>
+        <p>Our experienced guides will make your journey unforgettable.</p>
+      </div>
+      <div class="feature">
+        <img src="F:\anju\img\im3.jpg" alt="Group Tour">
+        <h3>Group Tours</h3>
+        <p>Meet new people and share experiences with group tours.</p>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2024 Explore the World. All rights reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>
