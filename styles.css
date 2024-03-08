@@ -1,0 +1,115 @@
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #eaee09;
+    color: #12c4e4;
+  }
+  
+  .container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  header {
+    background-image: url('F:\anju\img\im1.jpg');
+    background-size: cover;
+    color: #e98f07;
+    padding: 20px 0;
+  }
+  
+  header h1 {
+    margin-bottom: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin: 0 10px;
+  }
+  
+  nav ul li a {
+    color: #590cd6;
+    text-decoration: none;
+  }
+  
+  .hero {
+    background-image: url('F:\anju\img\im1.jpg');
+    background-size: cover;
+    color: #e611a6;
+    padding: 100px 0;
+    text-align: center;
+  }
+  
+  .hero-content {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(74, 247, 6, 0.986);
+    border-radius: 10px;
+  }
+  
+  .hero-content h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .btn {
+    display: inline-block;
+    background-color: #ff9800;
+    color: #e60b92;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .features {
+    text-align: center;
+    padding: 50px 0;
+  }
+  
+  .features h2 {
+    margin-bottom: 30px;
+  }
+  
+  .feature {
+    display: inline-block;
+    width: 30%;
+    margin: 0 2%;
+    vertical-align: top;
+    background-color: #0820f0;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(35, 184, 16, 0.774);
+  }
+  
+  .feature img {
+    max-width: 100%;
+    border-radius: 5px;
+  }
+  
+  .feature h3 {
+    margin-top: 10px;
+  }
+  
+  .feature p {
+    color: #84db13;
+  }
+  
+  footer {
+    background-image: url('F:\anju\img\im2.jpg');
+    background-size: cover;
+    color: #be1515;
+    text-align: center;
+    padding: 20px 0;
+  }
+  
